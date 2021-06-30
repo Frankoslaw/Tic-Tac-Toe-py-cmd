@@ -36,7 +36,7 @@ class Game():
         self.board = Board()
 
         os.system("clear")
-        print('Tic Tac Toe v0.1 made by Franciszek Łopuszański\n')
+        print('Tic Tac Toe v0.2 made by Franciszek Łopuszański\n')
 
     def display_cmd( self ):
         os.system("clear")
